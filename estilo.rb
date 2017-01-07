@@ -4,4 +4,4 @@ def saludar(nombre)
   puts 'hola ' + nombre
 end
 
-saludar('Marylu')
+saludar('Marylu ')
